@@ -20,3 +20,5 @@ Curl requests:
 * POST: curl -i -X POST -d '{"code":"DT000x","name":"Kursnamn","progression":"a","courseplan":""}' http://studenter.miun.se/~maed1801/dt173g/moment5-1/read.php/course
 * PUT (id): curl -i -X PUT -d '{"name":"test2","code":"test","progression":"a","courseplan":""}' http://studenter.miun.se/~maed1801/dt173g/moment5-1/read.php/course/16
 * DELETE (id): curl -i -X DELETE http://studenter.miun.se/~maed1801/dt173g/moment5-1/read.php/course/16
+
+API: http://studenter.miun.se/~maed1801/dt173g/moment5-1/read.php/course
