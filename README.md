@@ -2,7 +2,7 @@
 
 I uppgiften har en REST-webbtjänst skapats för att hantera en lista med kurser. Dessa kurser sparas i JSON-format.
 
-# Skapa tabell i databas: #
+**Skapa tabell i databas:**
 
 CREATE TABLE IF NOT EXISTS `courses` (
   `id` int(11) NOT NULL AUTO_INCREMENT,
