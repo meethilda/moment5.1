@@ -22,3 +22,5 @@ Curl requests:
 * DELETE (id): curl -i -X DELETE http://studenter.miun.se/~maed1801/dt173g/moment5-1/read.php/course/16
 
 API: http://studenter.miun.se/~maed1801/dt173g/moment5-1/read.php/course
+
+Klona: git clone https://github.com/meethilda/moment5.1.git
